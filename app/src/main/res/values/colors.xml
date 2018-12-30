@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="headColor">#AED6F1</color>
+    <color name="colSel">#D4EFDF</color>
+    <color name="colPret">#85929E</color>
+    <color name="tv_number">#00a7f5</color>
+    <color name="tv_name">#f92a39</color>
+    <color name="tv_date">#c225496b</color>
+    <color name="title_color">#FFFFFF</color>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">EvaDts</string>
+    <string name="btPaste">Paste EVA-DTS code</string>
+    <string name="btPrelucreaza">Convert your EVA-DTS code</string>
+    <string name="title_activity_main2">Result Eva-Dts Parse</string>
+    <string name="tab_text_1">Machine Info</string>
+    <string name="tab_text_2">Sales</string>
+    <string name="tab_text_3">Events</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="pret_lei">Pret (lei)</string>
+    <string name="selectia_nr">Selectia nr.</string>
+    <string name="cod_eroare">Cod eroare</string>
+    <string name="denumire_eroare">Denumire eroare</string>
+    <string name="data_eroare">Data eroare</string>
+    <string name="product">Product</string>
+
+</resources>
