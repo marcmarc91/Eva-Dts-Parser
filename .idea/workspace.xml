@@ -18,7 +18,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4d71a806-a791-487f-bac2-13a4fd977b26" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -135,8 +134,8 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="343">
+              <caret line="32" column="56" lean-forward="true" selection-start-line="32" selection-start-column="56" selection-end-line="32" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -2832,6 +2831,21 @@
       <option name="presentableId" value="Default" />
       <updated>1535203808408</updated>
     </task>
+    <task id="LOCAL-00001" summary="Committing source code">
+      <created>1546168701299</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1546168701300</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Committing source code">
+      <created>1546168924196</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1546168924196</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -2848,20 +2862,21 @@
     <layout>
       <window_info anchor="bottom" id="Android Profiler" order="7" show_stripe_button="false" weight="0.32990867" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32876712" />
+      <window_info anchor="bottom" id="Messages" sideWeight="0.49932885" visible="true" weight="0.32905984" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Build Variants" order="2" sideWeight="0.50396824" side_tool="true" weight="0.108027324" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5026846" side_tool="true" visible="true" weight="0.32763532" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.50067115" side_tool="true" visible="true" weight="0.32905984" />
       <window_info anchor="right" id="Preview" order="3" weight="0.29261744" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.24151234" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49731544" visible="true" weight="0.32763532" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49731544" weight="0.32763532" />
       <window_info anchor="bottom" id="Logcat" order="7" weight="0.23858447" />
       <window_info id="Captures" order="2" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49603173" visible="true" weight="0.16577181" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49603173" visible="true" weight="0.16577181" />
       <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49570355" weight="0.11965812" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.32975295" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24973147" />
@@ -2918,6 +2933,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Committing source code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Committing source code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -3336,8 +3355,8 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="343">
+          <caret line="32" column="56" lean-forward="true" selection-start-line="32" selection-start-column="56" selection-end-line="32" selection-end-column="56" />
         </state>
       </provider>
     </entry>
